@@ -1,4 +1,6 @@
+This repository is a backup of the original BEN2 project available at:
 
+👉 [https://github.com/PramaLLC/BEN2](https://github.com/PramaLLC/BEN2)
 
 # BEN2: Background Erase Network
 
